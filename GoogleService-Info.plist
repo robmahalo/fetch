@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>986533264376-846dad8nlg4npmu0fic4d1lcar35tfdk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.986533264376-846dad8nlg4npmu0fic4d1lcar35tfdk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWGf8ZbZgeTVTfSrTN2id3uCmGoL67w1M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>986533264376</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>rmanalo.fetch</string>
+	<key>PROJECT_ID</key>
+	<string>fetch-6b516</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fetch-6b516.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:986533264376:ios:ff5d4d729ca6f4ffaeb40d</string>
+	<key>DATABASE_URL</key>
+	<string>https://fetch-6b516.firebaseio.com</string>
+</dict>
+</plist>

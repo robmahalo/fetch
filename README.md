@@ -1,2 +1,0 @@
-# fetch
-fetch finance app
