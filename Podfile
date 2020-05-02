@@ -13,6 +13,7 @@ target 'fetch' do
   pod 'Firebase/Database'
   pod 'Firebase/Core'
   pod 'GoogleSignIn'
+  pod 'Firebase/Firestore'
 
   target 'fetchTests' do
     inherit! :search_paths
