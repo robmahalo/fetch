@@ -1,4 +1,4 @@
-# iOS Application
+# Expense Tracker - iOS Application
 
 **Features**
 - Create your personal User Account
